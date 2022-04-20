@@ -1,0 +1,13 @@
+name: dashboard-rshiny
+title:
+username:
+account: arethalevi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4978691
+bundleId: 5223689
+url: https://arethalevi.shinyapps.io/dashboard-rshiny/
+when: 1636303594.17593
+lastSyncTime: 1636303594.17595
+asMultiple: FALSE
+asStatic: FALSE
